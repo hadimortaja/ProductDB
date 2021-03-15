@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "140983875640",
+    "firebase_url": "https://tawseela-app-6236d.firebaseio.com",
+    "project_id": "tawseela-app-6236d",
+    "storage_bucket": "tawseela-app-6236d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140983875640:android:c236f0f7d679fe9a5ececd",
+        "android_client_info": {
+          "package_name": "com.example.tawseela_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140983875640-1dajpre9qineobj80ejc5buogj9qbgfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXLQwW-hyqzF1gkAINLbL0_ltSBEuhDOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140983875640-1dajpre9qineobj80ejc5buogj9qbgfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140983875640:android:59185a012ba1fd0f5ececd",
+        "android_client_info": {
+          "package_name": "com.h.mortaja.productdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140983875640-1dajpre9qineobj80ejc5buogj9qbgfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXLQwW-hyqzF1gkAINLbL0_ltSBEuhDOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140983875640-1dajpre9qineobj80ejc5buogj9qbgfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
